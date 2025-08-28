@@ -13,7 +13,8 @@
 
  int main(int argc, char**argv) {
 
-    printf("%s\n", NAME);
+    printf("%s!\n", NAME);
+    printf("Computer Engineering\n");
 
     return 0;
  }
