@@ -15,6 +15,10 @@
 
     printf("%s!\n", NAME);
     printf("Computer Engineering\n");
+    // Partner code
+    printf("--------------------------\n");
+    printf("Andrew Jacobson.\n");
+    printf("Comp. Sci.\n");
 
     return 0;
  }
